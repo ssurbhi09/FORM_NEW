@@ -1,2 +1,5 @@
-# FORM_NEW
-HERE IS MY NEW PROJECT . I USE HTML AND CSS.
+# My website :D
+
+This is my new project
+It's a website that contains HTML and CSS 
+Hope you like it :D
